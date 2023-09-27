@@ -13,3 +13,15 @@ For help getting started with Flutter development, view the
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+单指画线演算，双指上下左右拖动草稿纸；
+
+画笔/橡皮擦/清空 
+可输入json，点关闭时会回传画板上的json
+
+ ```dart
+_flutterSketchpadPlugin.showWithJsonString(_saveJsonString, (outputJsonString) {
+  setState(() {
+    _saveJsonString = outputJsonString;
+  });
+});
+```
