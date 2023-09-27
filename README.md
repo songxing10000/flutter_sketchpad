@@ -1,17 +1,5 @@
-# flutter_sketchpad
+ ![image](https://github.com/songxing10000/flutter_sketchpad/assets/10040131/0005ab29-5f8d-42e1-8a20-4b53c0fb8819)
 
-A new Flutter plugin project.
-
-## Getting Started
-
-This project is a starting point for a Flutter
-[plug-in package](https://flutter.dev/developing-packages/),
-a specialized package that includes platform-specific implementation code for
-Android and/or iOS.
-
-For help getting started with Flutter development, view the
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
 单指画线演算，双指上下左右拖动草稿纸；
 
